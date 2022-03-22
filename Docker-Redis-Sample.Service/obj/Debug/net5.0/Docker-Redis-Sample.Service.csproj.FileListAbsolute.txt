@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Service\bin\Debug\net5.0\Docker-Redis-Sample.Service.deps.json
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Service\bin\Debug\net5.0\Docker-Redis-Sample.Service.dll
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Service\bin\Debug\net5.0\ref\Docker-Redis-Sample.Service.dll
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Service\bin\Debug\net5.0\Docker-Redis-Sample.Service.pdb
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Service\bin\Debug\net5.0\Docker-Redis-Sample.Cache.dll
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Service\bin\Debug\net5.0\Docker-Redis-Sample.Core.dll
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Service\bin\Debug\net5.0\Docker-Redis-Sample.Cache.pdb
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Service\bin\Debug\net5.0\Docker-Redis-Sample.Core.pdb
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Service\obj\Debug\net5.0\Docker-Redis-Sample.Service.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Service\obj\Debug\net5.0\Docker-Redis-Sample.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Service\obj\Debug\net5.0\Docker-Redis-Sample.Service.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Service\obj\Debug\net5.0\Docker-Redis-Sample.Service.AssemblyInfo.cs
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Service\obj\Debug\net5.0\Docker-Redis-Sample.Service.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Service\obj\Debug\net5.0\Docker-Redis-Sample.Service.csproj.CopyComplete
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Service\obj\Debug\net5.0\Docker-Redis-Sample.Service.dll
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Service\obj\Debug\net5.0\ref\Docker-Redis-Sample.Service.dll
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Service\obj\Debug\net5.0\Docker-Redis-Sample.Service.pdb

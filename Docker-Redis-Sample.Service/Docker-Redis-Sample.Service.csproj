@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Docker_Redis_Sample.Service</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Collections" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Docker-Redis-Sample.Cache\Docker-Redis-Sample.Cache.csproj" />
+    <ProjectReference Include="..\Docker-Redis-Sample.Core\Docker-Redis-Sample.Core.csproj" />
+  </ItemGroup>
+
+</Project>

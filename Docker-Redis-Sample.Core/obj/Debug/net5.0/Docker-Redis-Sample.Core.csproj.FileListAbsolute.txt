@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Core\bin\Debug\net5.0\Docker-Redis-Sample.Core.deps.json
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Core\bin\Debug\net5.0\Docker-Redis-Sample.Core.dll
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Core\bin\Debug\net5.0\ref\Docker-Redis-Sample.Core.dll
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Core\bin\Debug\net5.0\Docker-Redis-Sample.Core.pdb
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Core\obj\Debug\net5.0\Docker-Redis-Sample.Core.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Core\obj\Debug\net5.0\Docker-Redis-Sample.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Core\obj\Debug\net5.0\Docker-Redis-Sample.Core.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Core\obj\Debug\net5.0\Docker-Redis-Sample.Core.AssemblyInfo.cs
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Core\obj\Debug\net5.0\Docker-Redis-Sample.Core.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Core\obj\Debug\net5.0\Docker-Redis-Sample.Core.dll
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Core\obj\Debug\net5.0\ref\Docker-Redis-Sample.Core.dll
+C:\Users\PC\Desktop\docker-redis\Docker-Redis-Sample\Docker-Redis-Sample.Core\obj\Debug\net5.0\Docker-Redis-Sample.Core.pdb

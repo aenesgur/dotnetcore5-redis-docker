@@ -1,0 +1,27 @@
+version: '3'
+services:
+  web:
+    container_name: 'docker-redis-sample-app'
+    image: 'docker-redis-sample-app'
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - '4545:80'
+    depends_on:
+      - 'redis-sample'
+    networks:
+      - docker-redis-sample-network  
+  
+  redis-sample:
+    ports:
+      - '6379:6379'
+    container_name: redis-sample
+    image: 'redis:latest'
+    networks:
+      - docker-redis-sample-network
+
+
+networks:
+  docker-redis-sample-network:
+    driver: bridge
